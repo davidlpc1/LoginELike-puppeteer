@@ -1,0 +1,16 @@
+{
+  "name": "LoginELike-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davidlpc1/LoginELike-puppeteer",
+  "author": "Davi Lucas <davilucasdlcreator@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7",
+    "puppeteer": "^5.5.0"
+  }
+}
